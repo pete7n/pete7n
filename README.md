@@ -6,6 +6,8 @@
   - [CV Website](https://github.com/pete7n/CV-Static-Website)
 - <b>Data Visualisation (Amazon S3 and Amazon Quicksight)</b>
   - [Board Game Data Visualisation](https://github.com/pete7n/BGG-Data-Visualisation)
+- <b>CI/CD Pipeline (Amazon S3, AWS CodePipeline and GitHub Repository)</b>
+  - [CI/CD Pipeline Website with AWS and GitHub](https://github.com/pete7n/BGG-Data-Visualisation)
 
 <h2>Certifications:</h2>
 
