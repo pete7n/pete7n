@@ -8,6 +8,8 @@
   - [Board Game Data Visualisation](https://github.com/pete7n/BGG-Data-Visualisation)
 - <b>CI/CD Pipeline (Amazon S3, AWS CodePipeline and GitHub Repository)</b>
   - [CI/CD Pipeline Website with AWS and GitHub](https://github.com/pete7n/CI-CD-Pipeline-Website)
+- <b>Python Bootcamp (Python 3, Anaconda, Jupyter and Sublime Text 3)</b>
+  - [The Complete Python Bootcamp From Zero to Hero in Python]()
 
 <h2>Certifications:</h2>
 
