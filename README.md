@@ -4,12 +4,19 @@
 
 - <b>Static Website (Amazon S3, Route 53, AWS Certificate Manager and CloudFront)</b>
   - [CV Website](https://github.com/pete7n/CV-Static-Website)
-- <b>Data Visualisation (Amazon S3 and Amazon Quicksight)</b>
-  - [Board Game Data Visualisation](https://github.com/pete7n/BGG-Data-Visualisation)
 - <b>CI/CD Pipeline (Amazon S3, AWS CodePipeline and GitHub Repository)</b>
   - [CI/CD Pipeline Website with AWS and GitHub](https://github.com/pete7n/CI-CD-Pipeline-Website)
-- <b>Python Bootcamp (Python 3, Anaconda, Jupyter and Sublime Text 3)</b>
+- <b>Data Visualisation (Amazon S3 and Amazon Quicksight)</b>
+  - [Board Game Data Visualisation](https://github.com/pete7n/BGG-Data-Visualisation)
+- <b>Python (Python 3, Anaconda, Jupyter and Sublime Text 3)</b>
   - [The Complete Python Bootcamp From Zero to Hero in Python](https://github.com/pete7n/Python-Bootcamp)
+- <b>Auto-Scaling Group (AWS, Key Pairs, Security Groups, Launch Templates, Auto-Scaling Groups and EC2 Instances)</b>
+  - [Creating and Testing an Auto-Scal;ing Group](https://github.com/pete7n/Auto-Scaling-Group)
+- <b>AWS Config (AWS Config, Amazon Simple Notification Service (SNS) and AWS managed rules)</b>
+  - [Evaluating AWS Config Rules](https://github.com/pete7n/Evaluate-AWS-Config-Rules)
+- <b>Health Checks (Target Groups, Load Balancers, Amazon Route 53, Amazon Simple Notification Service (SNS) and Amazon CloudWatch)</b>
+  - [Implement Health Checks by Using Elastic Load Balancing and Route 53](https://github.com/pete7n/Implement-Health-Checks-by-using-ELB-and-Route-53)
+
 
 <h2>Certifications:</h2>
 
